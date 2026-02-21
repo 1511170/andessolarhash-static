@@ -16,5 +16,7 @@ Desde el repo fuente:
 ```bash
 cd andessolarhash
 npm run build
-# Copiar contenido de build/ a andessolarhash-static y hacer commit
+# Copiar contenido de build/ a andessolarhash-static y hacer commit + push
 ```
+
+Última actualización: generado desde andessolarhash (imágenes locales, alineación Figma, sección hosting).
